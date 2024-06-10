@@ -8,7 +8,7 @@ bom o bootstrap é um framework muito utilizado para reutilização de códigos,
 
 
 <h2>Mas como eu posso adicionar bootstrap no meu código?</h2>
-<p>para isso é simples você pode tanto instalar pelo terminal npm utilizando npm install bootstrap@5, como também pode adiciona-lo usando links, ou scripts.</p>
+<p>Para isso é simples, você pode tanto instalar pelo terminal npm utilizando npm install bootstrap@5, como também pode adiciona-lo usando links, ou scripts.</p>
 <p>Para usarmos os links, e scripts podemos pegar diretamente na documentação do bootstrap segue o link <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">bootstrap</a> </p>
 
 
@@ -17,7 +17,7 @@ bom o bootstrap é um framework muito utilizado para reutilização de códigos,
 <p>O bootstrap te permite adicionar estilos dentro de uma classe, isso pode te ajudar a minimizar aquele textão grande no css<br> 
   já que temos até abreviações para algumas funções como py que seria um padding y, e não python ta? kk</p>
 
-<p>Algo interessante do bootstrap seria o id, ele serve para importarmos funções, e estilos previos do próprio bootstrap, utilizei eles para criarmos a caixa de login, e senha </p>  
+<p>Algo interessante do bootstrap seria o id, ele serve para importarmos funções, e estilos prévios do próprio bootstrap, utilizei eles para criarmos a caixa de login, e senha </p>  
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Resultado!;" />
 
